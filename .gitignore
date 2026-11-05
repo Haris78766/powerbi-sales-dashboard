@@ -1,0 +1,11 @@
+﻿# Power BI temp/cache files
+*.pbi
+.pbi/
+*.pbix.tmp
+~$*
+Thumbs.db
+.DS_Store
+
+# Not part of this project (book lesson checkpoints and older version)
+PBI Files/
+Sales.pbix
